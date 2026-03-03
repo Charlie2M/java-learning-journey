@@ -1,7 +1,23 @@
-### Java ###
+# =========================
+# Java (compiled output)
+# =========================
 *.class
 
-### IntelliJ IDEA ###
+# Common packaged outputs (not needed now, but safe)
+*.jar
+*.war
+*.ear
+
+# =========================
+# IntelliJ IDEA
+# =========================
 .idea/
 *.iml
 out/
+
+# =========================
+# OS / misc
+# =========================
+.DS_Store
+Thumbs.db
+
