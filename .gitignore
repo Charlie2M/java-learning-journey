@@ -2,22 +2,19 @@
 # Java (compiled output)
 # =========================
 *.class
-
-# Common packaged outputs (not needed now, but safe)
 *.jar
 *.war
 *.ear
+out/
 
 # =========================
 # IntelliJ IDEA
 # =========================
 .idea/
 *.iml
-out/
 
 # =========================
 # OS / misc
 # =========================
 .DS_Store
 Thumbs.db
-
